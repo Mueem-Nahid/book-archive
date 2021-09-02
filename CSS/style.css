@@ -1,0 +1,11 @@
+/* cover images size */
+.img-size{
+    width: 350px;
+    height: 450px;
+}
+
+/* spinner style */
+#spinner{
+    display: none;
+}
+
